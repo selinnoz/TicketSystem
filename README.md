@@ -45,6 +45,8 @@ Docker Compose ile Uygulamayı Başlatın
 Tüm servisleri başlatmak için aşağıdaki komutu çalıştırın:
  ```bash
 docker-compose up -d
+
+
 Bu komut, backend, MongoDB ve Nginx servislerini başlatacaktır.
 
 Uygulamayı Kontrol Edin
